@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "526714321141",
+    "firebase_url": "https://eventify-7d712.firebaseio.com",
+    "project_id": "eventify-7d712",
+    "storage_bucket": "eventify-7d712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526714321141:android:ed1cdc9e31381982",
+        "android_client_info": {
+          "package_name": "com.example.krist.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526714321141-0isjjuvbdur1mt5chga7s9a9i9c4m50i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7-IFwOpbO12k1ItUCFtJNc2HsJURVJfQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

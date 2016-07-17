@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">526714321141-0isjjuvbdur1mt5chga7s9a9i9c4m50i.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://eventify-7d712.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">526714321141</string>
+    <string name="google_api_key" translatable="false">AIzaSyC7-IFwOpbO12k1ItUCFtJNc2HsJURVJfQ</string>
+    <string name="google_app_id" translatable="false">1:526714321141:android:ed1cdc9e31381982</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC7-IFwOpbO12k1ItUCFtJNc2HsJURVJfQ</string>
+    <string name="google_storage_bucket" translatable="false">eventify-7d712.appspot.com</string>
+</resources>
